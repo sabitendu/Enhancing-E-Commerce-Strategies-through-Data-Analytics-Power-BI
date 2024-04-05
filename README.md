@@ -39,4 +39,5 @@ Premium members exhibit higher order frequency compared to standard and VIP memb
 There has been a steady increase in total sales each year, with the largest year-over-year increase between July 2023 and January 2024. The High Spend tier shows a positive trend in terms of order frequency over the years, suggesting the potential for growth by targeting and nurturing high-value customer segments.
 
 ## Demo
-![Sabitendu_Part_2_Group](https://github.com/sabitendu/Enhancing-E-Commerce-Strategies-through-Data-Analytics-Power-BI/assets/117887431/e8268e51-b4b7-40a7-abec-d27f8d3742d9)
+![powerbi-gif](https://github.com/sabitendu/Enhancing-E-Commerce-Strategies-through-Data-Analytics-Power-BI/assets/117887431/e34b1374-8eef-4800-be87-d80959ff1076)
+
