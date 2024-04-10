@@ -1,5 +1,8 @@
 # Enhancing-E-Commerce-Strategies-through-Data-Analytics-Power-BI
 
+
+![Ecommerce-Shopping-Infographics](https://github.com/sabitendu/Enhancing-E-Commerce-Strategies-through-Data-Analytics-Power-BI/assets/117887431/c3965ab7-ebd1-4c6b-acae-446556e69e1d)
+
 ## Overview
 
 As an analyst at Digital Commerce Insights, I focused on analyzing two critical datasets: 'Ecommerce Orders' and 'Customer Profiles'. These datasets provided valuable insights into customer behavior and demographics. The 'Ecommerce Orders' dataset contains detailed information on customer orders, including products purchased, quantities, prices, order dates, and shipping costs. The 'Customer Profiles' dataset offers comprehensive information on customer demographics, including email, country, membership type, and spending history. These datasets serve as the foundation for understanding customer behavior and optimizing business strategies in the digital commerce domain.
